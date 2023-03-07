@@ -35,6 +35,8 @@
 
 ## 📊 Some statistics:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlboff&theme=default"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vlboff&theme=default" width="300"/>&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlboff&theme=default" width="300"/>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlboff&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vlboff&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlboff&theme=default"/>
+</div>
