@@ -22,9 +22,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>&nbsp;
 
-<!-- <div id="projects">
-<h2>📂 My projects:</h2>
-</div> -->
+## 📂 My projects:
+
+### <a href="https://github.com/vlboff/race"> Race </a>
+
+> This application communicates with a server. Based on responses from the server and a simple animation you may organize a "race" with a random results.
 
 ## 🎓 Education and courses:
 
