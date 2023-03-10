@@ -28,6 +28,10 @@
 
 > This application communicates with a server. Based on responses from the server and a simple animation you may organize a "race" with a random results.
 
+### <a href="https://github.com/vlboff/songbird"> Songbird </a>
+
+> Quiz app for recognizing birds by their voices.
+
 ## 🎓 Education and courses:
 
 ### The Rolling Scopes School
