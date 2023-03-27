@@ -4,7 +4,7 @@
 </div>
 
 <div id="contacts" align="center">
-<a href="https://www.linkedin.com/in/vladimir-barbikov-1a371414a/">
+<a href="https://www.linkedin.com/in/uladzimir-barbikau/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://t.me/ubarbikau">
@@ -36,8 +36,7 @@
 
 ### The Rolling Scopes School
 
-- Course «JavaScript/Front-end»
-<!-- certificate -->
+- Course «JavaScript/Front-end» (<a href="https://app.rs.school/certificate/kwd6tvfw"> certificate </a>)
 
 ## 📊 Some statistics:
 
