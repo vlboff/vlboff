@@ -41,3 +41,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vlboff&theme=default"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlboff&theme=default"/>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=vlboff&style=flat-square&color=blue" alt=""/>
