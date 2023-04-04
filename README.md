@@ -28,13 +28,28 @@
 
 > This is a music service based at Spotify API.
 
+> Technologies used:
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp;
+
 ### <a href="https://github.com/vlboff/race"> Race </a>
 
 > This application communicates with a server. Based on responses from the server and a simple animation you may organize a "race" with a random results.
 
+> Technologies used:
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp;
+
 ### <a href="https://github.com/vlboff/songbird"> Songbird </a>
 
 > This is quiz app for recognizing birds by their voices.
+
+> Technologies used:
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp;
 
 ## 🎓 Education and courses:
 
