@@ -24,9 +24,17 @@
 
 ## 📂 My projects:
 
+### <a href="https://github.com/vlboff/race"> RS Clone </a>
+
+> This is a music service based at Spotify API.
+
 ### <a href="https://github.com/vlboff/race"> Race </a>
 
 > This application communicates with a server. Based on responses from the server and a simple animation you may organize a "race" with a random results.
+
+### <a href="https://github.com/vlboff/race"> Songbird </a>
+
+> This is quiz app for recognizing birds by their voices.
 
 ## 🎓 Education and courses:
 
