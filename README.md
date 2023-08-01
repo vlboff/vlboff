@@ -21,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" width="50" height="50"/>&nbsp;
 
 ## 📂 My projects:
 
@@ -32,6 +33,15 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="20" height="20"/>&nbsp;
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="20" height="20"/>&nbsp;
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp;
+
+### <a href="https://github.com/vlboff/online-store"> Online store </a>
+
+> This app is an example of the user part of an online store.
+
+> Technologies used:
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="20" height="20"/>&nbsp;
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp;
 
 ### <a href="https://github.com/vlboff/race"> Race </a>
@@ -56,6 +66,7 @@
 ### The Rolling Scopes School
 
 - Course «JavaScript/Front-end» (<a href="https://app.rs.school/certificate/kwd6tvfw"> certificate </a>)
+- Course «React» (<a href="https://app.rs.school/certificate/9rokw5ld"> certificate </a>)
 
 ## 📊 Some statistics:
 
