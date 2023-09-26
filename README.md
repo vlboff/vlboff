@@ -20,32 +20,36 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Materialui" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" width="50" height="50"/>&nbsp;
 
 ## 📂 My projects:
+
+### <a href="https://github.com/vlboff/music-quiz"> Music Quiz </a>
+
+> This is a music quiz builder based at Spotify API.
+
+> Technologies used:
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Materialui" width="20" height="20"/>&nbsp;
 
 ### <a href="https://github.com/vlboff/rsclone"> RS Clone </a>
 
 > This is a music service based at Spotify API.
 
 > Technologies used:
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="20" height="20"/>&nbsp;
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="20" height="20"/>&nbsp;
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="20" height="20"/>&nbsp;
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp;
 
 ### <a href="https://github.com/vlboff/online-store"> Online store </a>
 
 > This app is an example of the user part of an online store.
 
 > Technologies used:
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="20" height="20"/>&nbsp;
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="20" height="20"/>&nbsp;
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="20" height="20"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp;
 
-### <a href="https://github.com/vlboff/race"> Race </a>
+<!-- ### <a href="https://github.com/vlboff/race"> Race </a>
 
 > This application communicates with a server. Based on responses from the server and a simple animation you may organize a "race" with a random results.
 
@@ -60,7 +64,7 @@
 > Technologies used:
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="20" height="20"/>&nbsp;
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="20" height="20"/>&nbsp;
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="20" height="20"/>&nbsp; -->
 
 ## 🎓 Education and courses:
 
